@@ -18,7 +18,7 @@ header {
     color: #fff;
     font-size: 60px;
     font-weight: 400;
-    padding: 90px 0px 0px 450px;
+    padding: 80px 0px 0px 450px;
 }
 
 .header-title-2 {
@@ -29,3 +29,51 @@ header {
     padding: 0px 0px 0px 450px;
 }
 
+/* Discount section */
+.discount-text {
+    color: rgb(255, 0, 0);
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    text-align: center;
+    position: absolute;
+    left: 540px;
+    top: 590px;
+
+}
+
+.discount-text-2 {
+    position: absolute;
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    left: 540px;
+    top: 790px;
+}
+.discount-text-3 {
+    position: absolute;
+    width: 450px;
+    height: 58px;
+    left: 490px;
+    top: 820px;
+    bottom: -925px;
+
+    color: rgb(7, 2, 17); 
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+
+}
+.new-year-img {
+    position: absolute;
+    width: 802.9px;
+    height: 500px;
+    left: 290px;
+    right: -399px;
+    top: 165.28%;
+    bottom: -142.09%;
+    border-style: dashed;
+    border-color: gray ;
+}
